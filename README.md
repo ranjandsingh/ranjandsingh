@@ -1,5 +1,5 @@
 # Ranjan Singh
-### Full Stack Engineer | Maker | 
+### Full Stack Engineer | Maker | AI & ML Enthusiast 
 
 ⤷ I'm a developer who's hopelessly in love with React, React Native, Node.js, and AI models. I spend my days creating awesome packages on GitHub and my nights trying to make them even more awesome. I'm always looking for new and exciting ways to improve my skills and make my code more efficient and user-friendly. Plus, I love making terrible jokes and puns, so working with AI models is a match made in heaven.
 

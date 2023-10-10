@@ -16,7 +16,7 @@
 
 
 
-## :fire: My Stats :
+## :fire: Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ranjandsingh&theme=dark&hide_border=true&exclude_days=Sat)](https://git.io/streak-stats) [![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjandsingh&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--

@@ -18,7 +18,7 @@
 
 ## :fire: Stats
 
-[GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ranjandsingh&theme=dark&hide_border=true&exclude_days=Sat) [GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjandsingh&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ranjandsingh&theme=dark&hide_border=true&exclude_days=Sat) ![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjandsingh&theme=dark&hide_border=true)
 <!--
 **ranjandsingh/ranjandsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

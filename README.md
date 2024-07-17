@@ -7,7 +7,7 @@
 
 ⚐ Based in India
 
-ϟ Currently Making Travel Planning Fun @ Pilot
+ϟ Currently Building @ Telos
 
 ϟ Recently Learned System Architecture For Large Scale Systems
 

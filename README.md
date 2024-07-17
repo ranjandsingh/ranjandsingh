@@ -7,7 +7,7 @@
 
 ⚐ Based in India
 
-ϟ Currently Building @ Telos
+ϟ Currently Building @ [Telos](https://heytelos.com)
 
 ϟ Recently Learned System Architecture For Large Scale Systems
 

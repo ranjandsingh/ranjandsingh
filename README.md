@@ -11,7 +11,7 @@ Whether I'm designing complex LangGraph workflows, focusing on agent adherence i
 
 ### 🚀 Quick Stats
 - ⚐ **Based in:** India
-- 💼 **Currently:** Architecting core AI experiences @ [Qolaba](https://qolaba.ai) | Helping build tools for intentional living @ [Telos (World on Purpose)](https://worldonpurpose.com/)
+- 💼 **Currently:** Helping build tools for intentional living @ [Telos (World on Purpose)](https://worldonpurpose.com/)
 - 🏗️ **Focusing on:** Multi-Agent Orchestration, Agent Adherence, and Large-Scale System Architecture
 - ⌨️ **Keyboard shortcut of the month:** `Ctrl + \`` 
 

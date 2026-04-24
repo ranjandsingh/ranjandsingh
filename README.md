@@ -1,5 +1,5 @@
 # Hi, I'm Ranjan Singh 👋
-### Staff Software Engineer | Systems Architect | Open-Source Maker
+### Gen AI & Product Engineer | Open-Source Maker
 
 ⤷ I'm a Staff-level engineer and systems architect with nearly a decade of experience, hopelessly in love with TypeScript, React Native, and pushing the boundaries of system architecture. I specialize in building high-performance applications and crafting clean, modern user experiences. 
 
